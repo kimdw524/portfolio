@@ -3298,6 +3298,7 @@ __metadata:
     prettier-plugin-tailwindcss: "npm:^0.6.9"
     react: "npm:19.0.0-rc-66855b96-20241106"
     react-dom: "npm:19.0.0-rc-66855b96-20241106"
+    react-icons: "npm:^5.3.0"
     tailwindcss: "npm:^3.4.15"
     typescript: "npm:^5"
   dependenciesMeta:
@@ -3529,6 +3530,15 @@ __metadata:
   peerDependencies:
     react: 19.0.0-rc-66855b96-20241106
   checksum: 10c0/62298e0bd655f2bcbebccd03f593532a4728bebe119ecb30d7f50503d74882cbda90acacdb96bd54b6c1e29c36e74cc7ccab8132926d80e34002d89c07f6a9ab
+  languageName: node
+  linkType: hard
+
+"react-icons@npm:^5.3.0":
+  version: 5.3.0
+  resolution: "react-icons@npm:5.3.0"
+  peerDependencies:
+    react: "*"
+  checksum: 10c0/a53af0de558f0e2bacfbafc973aa8ca1e6a429006a2f83d70becad5be431726a691e096336c95949bb0d967587b145264c5046d2bc1518969dbae731855d0712
   languageName: node
   linkType: hard
 
